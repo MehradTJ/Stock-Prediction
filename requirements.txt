@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.2
+yfinance==0.2.54
+scikit-learn==1.6.1
+mplfinance==0.12.10b0
+tensorflow==2.18.0
+keras==3.8.0
